@@ -7,6 +7,8 @@
 
 - Ask me about **AI, Game Engine, Game Design and Game Mechanics**
 
+- Doing Modding As Hobby at Mount and Blade Bannerlord, CK3, Arma 3, Etc.
+
 - Email me **richard.bhiung@gmail.com**
 
 - Fun fact **I'm a Very Chill Person**
