@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richard Bui Hiung</h1>
-<h3 align="center">A experienced programmer from Indonesia. Been in Game Industry for 3+ Years</h3>
+<h3 align="center">A experienced programmer from Indonesia. Been in Game Industry for 4+ Years</h3>
 
 - I’m currently working on [Arma Reforger DCO AI, and Sengkala Dev](https://github.com/817r/DCOReforger, https://gitlab.com/Sengkala_Dev/fall-of-bali)
 
